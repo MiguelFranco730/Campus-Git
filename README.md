@@ -1,6 +1,6 @@
 Hola editando desde el Git.
 
-# README modificado desde la rama titulo-readme
+# README titulo modificado
 ## Contenido:
 ### Uso del Repositorio
 
